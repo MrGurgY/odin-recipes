@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(214, 178, 153);
+    margin: 20px;
+}
+
+
+.title{
+    text-align: center;
+    margin: 25px auto;
+    padding: 30px;
+    border:ridge 15px rgb(223, 223, 134);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    background: gold
+    
+}
+
+p {
+ ma;
+}
+.receptes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px  20px 10px;
+    border:  solid 4px rgb(64, 105, 59);
+    border-radius: 10px 0 ;
+    margin: 5px;
+    width: 200px;
+    
+}
+
+#home {
+    border:solid 2px;
+    padding: 5px 15px;
+    margin: 50px 0 50px 0 ;
+    
+
+}
+
+.img {
+    border-radius: 0 300px ;
+    text-align: center;
+    margin: auto;
+
+}
